@@ -3,7 +3,7 @@ import java.awt.Color;
 import ex4.geometry.*;
 /**
  * This class is the "main" class which will be constructed and run as in (Test_Ex4).
- * @author Ilan Gold ID:315804583
+ * @author Ilan Gold
  *
  */
 public class Ex4 implements Ex4_GUI{

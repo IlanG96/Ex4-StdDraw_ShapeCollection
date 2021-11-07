@@ -2,7 +2,7 @@ package ex4.geometry;
 /**
  * This class represents a 2D Triangle in the plane.
  * 
- * @author Ilan Gold ID:315804583
+ * @author Ilan Gold
  *
  */
 public class Triangle2D implements GeoShape{

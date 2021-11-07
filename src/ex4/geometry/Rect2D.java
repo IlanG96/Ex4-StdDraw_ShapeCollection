@@ -1,7 +1,7 @@
 package ex4.geometry;
 /**
  * This class represents a 2D axis parallel rectangle.
- * @author Ilan Gold ID:315804583
+ * @author Ilan Gold
  *
  */ 
 public class Rect2D implements GeoShape{

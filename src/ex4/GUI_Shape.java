@@ -4,8 +4,7 @@ import java.awt.Color;
 /**
  * This interface represents a GUI shape with meta data of color, fill/empty and tag.
  * It also contains a geometric shape (GeoShape).
- *  Ex4: you should NOT change this interface!
- * @author boaz.benmoshe
+ * @author Ilan Gold
  */
 import ex4.geometry.GeoShape;
 public interface GUI_Shape {

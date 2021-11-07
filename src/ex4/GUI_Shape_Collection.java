@@ -9,8 +9,7 @@ import ex4.geometry.Rect2D;
  * 3. remove a single or all gui_shapes.
  * 4. sort the gui_shapes according to shape Comparator
  * 5. computes the bounding box containing all the shapes as a minimal 2D rectangle.
- *  Ex4: you should NOT change this interface!
- * @author boaz.benmoshe
+ * @author Ilan Gold
  *
  */
 public interface GUI_Shape_Collection {

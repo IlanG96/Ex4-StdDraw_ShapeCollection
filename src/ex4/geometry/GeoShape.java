@@ -2,8 +2,7 @@ package ex4.geometry;
 
 public interface GeoShape {
 	/** This interface represents a geometric (2D) shape in the plane. The methods includes: moving a shape by a vector, testing if a shape contains a point, centerOfMass, area, perimeter, toString and a method (getPoints) for getting the points representing this
-	Ex4: you should NOT change this interface! */
-	/** Computes if the point (ot) falls inside this (closed) shape. */
+	 /** Computes if the point (ot) falls inside this (closed) shape. */
 	public boolean contains(Point2D ot);
 	/** Computes the center of mass of this shape. */
 	public Point2D centerOfMass();

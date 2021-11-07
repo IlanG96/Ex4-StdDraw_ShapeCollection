@@ -3,7 +3,7 @@ package ex4;
  * This class represents a set of parameters for Ex3 GUI Shape application for:
  * Introduction to Computer Science 2020, Ariel University.
  * Ex4: you should NOT change this class!
- * @author boaz.benmoshe
+ * @author Ilan Gold
  */
 public class Ex4_Const {
 	public static final double EPS1 = 0.001, EPS2=Math.pow(EPS1, 2), EPS = EPS2;

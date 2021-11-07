@@ -6,8 +6,7 @@ import ex4.geometry.GeoShape;
 /**
  * This class represents a Comparator over GUI_Shapes - 
  * as a linear order over GUI_Shapes.
- * Ex4: you should implement this class!
- * @author I2CS
+ * @author Ilan Gold
  *
  */
 public class Shape_Comp implements Comparator<GUI_Shape>{

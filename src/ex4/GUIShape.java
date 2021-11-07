@@ -1,8 +1,7 @@
 package ex4;
 /**
  * This class implements the GUI_shape.
- * Ex4: you should implement this class!
- * @author I2CS
+ * @author Ilan Gold
  */
 import java.awt.Color;
 import ex4.geometry.*;
