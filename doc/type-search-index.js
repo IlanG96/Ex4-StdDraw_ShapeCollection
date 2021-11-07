@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ex4.geometry","l":"Circle2D"},{"p":"ex4.geometry","l":"GeometryTest"},{"p":"ex4.geometry","l":"GeoShape"},{"p":"ex4.geometry","l":"Point2D"},{"p":"ex4.geometry","l":"Rect2D"},{"p":"ex4.geometry","l":"Segment2D"},{"p":"ex4.geometry","l":"Triangle2D"}];updateSearchResults();
