@@ -7,4 +7,4 @@ All forms include point implemente the GeoShape interface, which includes variou
 
 This task include Junit test cases for all shapes and classes.
 
-test_file include different shapes with different coordinates the program read the file and draw the shapes in a basic graphical interface(StdDraw).
+test_save.txt include different shapes with different coordinates the program read the file and draw the shapes in a basic graphical interface(StdDraw).
